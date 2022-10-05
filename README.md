@@ -1,2 +1,2 @@
-# SortingCPP
-About sort algorithms inc++ and report
+# Sorting Algorithm Analysis
+Anlysis 11 sorting algorithms in C++
